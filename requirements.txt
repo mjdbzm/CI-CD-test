@@ -1,2 +1,4 @@
-scikit-lean
+scikit-learn
 pandas
+numpy
+scikit-learn
