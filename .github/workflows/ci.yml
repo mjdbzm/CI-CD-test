@@ -23,4 +23,4 @@ jobs:
         run: pip install -r requirements.txt
       # Execute les tests du model
       - name : Run test
-        run: python test.py   
+        run: python ml_model/test_model.py   
